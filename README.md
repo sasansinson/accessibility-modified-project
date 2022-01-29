@@ -6,6 +6,6 @@ In this project i learned how different parts of HTML and CSS files are collabor
 ## Final result
 Below is the final result of my project,also you can check it out in the URL link I provided.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./images\screenshot.png)
+![accessibility-modified-project page.](./images/screenshot.png)
 
 https://sasansinson.github.io/accessibility-modified-project/
